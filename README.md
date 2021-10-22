@@ -3,7 +3,8 @@
 基于MrKinau同志的钓鱼机器人
  1. 增加了盗版登录功能
  2. 增加了钓鱼摇头功能
- 3. 针对wolfxmc服务器添加了自动登录功能\n
+ 3. 针对wolfxmc服务器添加了自动登录功能
+ 
 FishingBot based on MrKinau's Fishingbot 2.7.15
  1. added support of pirate authentication
  2. added support of head shaking
